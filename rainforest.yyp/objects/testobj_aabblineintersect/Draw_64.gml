@@ -1,0 +1,1 @@
+draw_text(16, 16, $"FPS: {fps}, Real FPS: {fps_real}");

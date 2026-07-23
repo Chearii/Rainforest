@@ -1,0 +1,25 @@
+tree-based sweep-testing collision system that can process moves and rotations efficiently
+
+split into 3 layers: solids, bricks, and things:
+- "solids" are stuff like platforms and moving platforms, they don't react to the game world
+  and kind of just do their own thing unless they're pushing something on a lower layer
+- "bricks" are like solids, but interact with solids and react to collisions; if a solid is pushing
+  a brick in a way that'd crush it, the solid will actually stop its move and signal to itself to do
+  some sort of correction system (so a moving platform potentially crushing something like
+  the schooner will move the other way to prevent the crush)
+- "things" are the "least respected" layer, since both bricks and solids can push them around.
+  if a thing gets put into a crushing move, it's the *thing*'s job to tell the brick/solid to do
+  something, or for itself to do something (which is likely how the crushing system will
+  work during gameplay)
+  
+TODO:
+- complete BVH implementation, add box vs. box sweep tests
+- once box vs. box works, work on implementing polygonal collisions via GJK
+  and other systems
+- pushing + crush-signaling system
+- scaling objects? maybe? would require discrete collisions *only* because sweeping a
+  scale would cause what I call the "balloon" problem: the intended scale is stopped
+  (likely unnecessarily) by a swept collision; plus: scales are the one time a discrete
+  collision *cannot fail!*
+  
+"avium" feels too egotistical of a name; switch to "rainforest" eventually (represents the 3-tree system)

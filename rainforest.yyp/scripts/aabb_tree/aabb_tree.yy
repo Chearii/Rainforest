@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"aabb_tree",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"aabb_tree",
+  "parent":{
+    "name":"AABBTree",
+    "path":"folders/Rainforest/Structs/AABBTree.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

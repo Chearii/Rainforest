@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"PLANS",
+  "name":"PLANS",
+  "parent":{
+    "name":"Rainforest",
+    "path":"folders/Rainforest.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

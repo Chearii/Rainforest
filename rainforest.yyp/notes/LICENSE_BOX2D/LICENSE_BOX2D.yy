@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"LICENSE_BOX2D",
+  "name":"LICENSE_BOX2D",
+  "parent":{
+    "name":"LICENSE_THIRDPARTY",
+    "path":"folders/Rainforest/LICENSE_THIRDPARTY.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

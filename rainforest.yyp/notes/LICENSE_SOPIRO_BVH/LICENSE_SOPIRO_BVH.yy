@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"LICENSE_SOPIRO_BVH",
+  "name":"LICENSE_SOPIRO_BVH",
+  "parent":{
+    "name":"LICENSE_THIRDPARTY",
+    "path":"folders/Rainforest/LICENSE_THIRDPARTY.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

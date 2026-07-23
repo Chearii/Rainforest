@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"vector",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vector",
+  "parent":{
+    "name":"Vector",
+    "path":"folders/Rainforest/Structs/Vector.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

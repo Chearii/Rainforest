@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rainforest_general",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rainforest_general",
+  "parent":{
+    "name":"General",
+    "path":"folders/Rainforest/General.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

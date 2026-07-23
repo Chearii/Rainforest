@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Rainforest","order":1,"path":"folders/Rainforest.yy",},
+    {"name":"General","order":4,"path":"folders/Rainforest/General.yy",},
+    {"name":"LICENSE_THIRDPARTY","order":5,"path":"folders/Rainforest/LICENSE_THIRDPARTY.yy",},
+    {"name":"Structs","order":3,"path":"folders/Rainforest/Structs.yy",},
+    {"name":"AABB","order":1,"path":"folders/Rainforest/Structs/AABB.yy",},
+    {"name":"Vector","order":2,"path":"folders/Rainforest/Structs/Vector.yy",},
+    {"name":"TEST","order":2,"path":"folders/TEST.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"LICENSE_SOPIRO_BVH","order":1,"path":"notes/LICENSE_SOPIRO_BVH/LICENSE_SOPIRO_BVH.yy",},
+    {"name":"PLANS","order":2,"path":"notes/PLANS/PLANS.yy",},
+    {"name":"addobjects","order":4,"path":"objects/addobjects/addobjects.yy",},
+    {"name":"camcontrol","order":7,"path":"objects/camcontrol/camcontrol.yy",},
+    {"name":"obj_treetest","order":2,"path":"objects/obj_treetest/obj_treetest.yy",},
+    {"name":"perfmonitor","order":3,"path":"objects/perfmonitor/perfmonitor.yy",},
+    {"name":"testobj_linetreeintersect","order":6,"path":"objects/testobj_linetreeintersect/testobj_linetreeintersect.yy",},
+    {"name":"worstcasetest","order":5,"path":"objects/worstcasetest/worstcasetest.yy",},
+    {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_aabbtest","order":1,"path":"sprites/spr_aabbtest/spr_aabbtest.yy",},
+    {"name":"spr_camcontrol","order":8,"path":"sprites/spr_camcontrol/spr_camcontrol.yy",},
+  ],
+}
