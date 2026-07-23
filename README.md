@@ -8,6 +8,6 @@ I owe a lot to Erin Catto's great insight on optimized collision, and just in ge
 Still a WIP; PLANS.txt shows mainly what I'm working towards, as I generally want a malleable, portable GML codebase that can be used for fast, arbitrary collisions *not tied to any object* in GameMaker games, without the need for any extensions to get extra efficiency
 
 ## License
-Both Box2D and Sopiro's BVH implementation are under the MIT license; this codebase is also under that license, and both of the prior licenses are included in this codebase
+Both Box2D and Sopiro's BVH implementation are under the MIT license; this codebase is also under that license, and both of the prior licenses are included in this codebase (check the "notes" folder in rainforest.yyp)
 
 Go nuts (within reason)!
